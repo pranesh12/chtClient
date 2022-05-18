@@ -10,9 +10,9 @@ const Navbar = () => {
   const currentUserState = useSelector(
     (state) => state.loginUserReducer.currentUser
   );
-  const currentLanguage = useSelector(
-    (state) => state.languageReducer.changeToChakmaLange
-  );
+  // const currentLanguage = useSelector(
+  //   (state) => state.languageReducer.changeToChakmaLange
+  // );
 
   const { name } = currentUserState;
 
