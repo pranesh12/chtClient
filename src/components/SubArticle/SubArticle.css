@@ -1,0 +1,11 @@
+.sub_article {
+  font-family: "Inconsolata";
+  padding: 3rem 0 !important;
+  color: var(--white);
+  background-color: var(--primaryViolet);
+}
+.ar_header {
+  font-weight: 600;
+  font-size: 2.5rem;
+  color: var(--white);
+}
