@@ -51,7 +51,7 @@ const Navbar = () => {
                         className="nav-link"
                         to="/Education/61853147b55f903ed872b2e7"
                       >
-                        t2
+                        t𑄘𑄳𑄃𑄬𑄣𑄴
                       </Link>
                     </li>
                     <li className="nav-item">
