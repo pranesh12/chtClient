@@ -39,7 +39,7 @@ const Navbar = () => {
                   <span className="navbar-toggler-icon"></span>
                 </button>
                 <Link className="navbar-brand" to="/">
-                  Testing
+                  𑄘𑄳𑄃𑄬𑄣𑄴
                 </Link>
                 <div
                   className="collapse navbar-collapse left_navbar"
@@ -59,22 +59,22 @@ const Navbar = () => {
                         className="nav-link"
                         to="/Education/61855355035620151820ac13"
                       >
-                        Translation
+                        𑄛𑄣𑄨
                       </Link>
                     </li>
                     <li className="nav-item">
                       <Link className="nav-link" to="/articles">
-                        Articles
+                        𑄬𑄦𑄖𑄴
                       </Link>
                     </li>
                     <li className="nav-item">
                       <Link className="nav-link" to="/tourguides">
-                        Tour Guides
+                        𑄉𑄧𑄢𑄴𑄝
                       </Link>
                     </li>
                     <li className="nav-item">
                       <Link className="nav-link" to="/review">
-                        Review
+                        𑄃𑄧𑄏𑄛𑄖𑄴
                       </Link>
                     </li>
                   </ul>
@@ -90,7 +90,7 @@ const Navbar = () => {
                           data-bs-toggle="dropdown"
                           aria-expanded="false"
                         >
-                          Languages
+                          𑄬𑄦𑄖𑄴
                         </Link>
 
                         <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
@@ -112,7 +112,7 @@ const Navbar = () => {
                         <Link className="nav-link active">{name}</Link>
                       ) : (
                         <Link className="nav-link " to="/auth">
-                          Login/registration
+                          𑄗𑄧𑄟𑄴/𑄙𑄝𑄚
                         </Link>
                       )}
                     </li>

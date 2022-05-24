@@ -1,44 +1,40 @@
 const chakmaLanguageData = {
   //Banner section
   banner: {
-    primaryHeader: "Testing data",
-    secondDarayHeader: "Testing hill tracts",
+    primaryHeader: "𑄘𑄳𑄃𑄬𑄣𑄴 𑄢𑄧",
+    secondDarayHeader: "𑄙𑄝𑄚 𑄗𑄣𑄴 𑄛𑄚",
     paragraph:
-      "Chittagong hill tracts is a non-profit online archive and community. We are conserving and promoting cultures of world indigenous community. You can share and explore new ideas & thoughts representing diverse views of diverse people.",
-    btn: "Discover Hill tracts",
+      "𑄘𑄳𑄃𑄬𑄣𑄴 𑄗𑄣𑄴 𑄘𑄪𑄭 𑄙𑄝𑄚 𑄦𑄌𑄴 𑄛𑄣𑄨 𑄨𑄘𑄨 𑄛𑄚 𑄬𑄃𑄇𑄴 𑄦𑄌𑄴 𑄛𑄣𑄨 𑄨𑄘𑄨. 𑄛𑄚 𑄛𑄣𑄨 𑄨𑄘𑄨 𑄃𑄋𑄢𑄳𑄦 𑄢𑄧 𑄃𑄧𑄏𑄛𑄖𑄴 𑄘𑄳𑄃𑄬𑄣𑄴 𑄬𑄦𑄖𑄴 𑄇𑄨 𑄘𑄳𑄃𑄬𑄣𑄴 𑄛𑄣𑄨 𑄨𑄘𑄨 𑄛𑄚 𑄟𑄌𑄴 𑄘𑄳𑄃𑄬𑄣𑄴. 𑄇𑄨 𑄬𑄦𑄖𑄴 𑄦𑄉𑄧𑄖𑄴𑄧𑄣𑄨 𑄃𑄋𑄢𑄳𑄦 𑄙𑄟 𑄢𑄖𑄴 𑄒𑄉𑄪𑄢𑄴 𑄢𑄧 𑄘𑄳𑄃𑄬𑄣𑄴.",
   },
 
   //section section
 
   section: {
     firstCard: {
-      header: "working testing",
-      detail:
-        "Promoting diverse cultures of world indigenous communities and uphold the spirit of diversity is our primary objective.",
+      header: "𑄛𑄚 𑄋𑄩𑄢𑄨 ",
+      detail: "𑄟𑄴 𑄬𑄦𑄖𑄴 𑄇𑄨 𑄙𑄟 𑄢𑄖𑄴 𑄘𑄳𑄃𑄬𑄣𑄴 𑄒𑄉𑄪𑄢𑄴 𑄗𑄧𑄟𑄴 𑄘𑄳𑄃𑄬𑄣𑄴 𑄉𑄧𑄢𑄴𑄝. 𑄦𑄉𑄧𑄖𑄴𑄧𑄣𑄨 𑄘𑄪𑄭 𑄛𑄚 𑄬𑄦",
     },
     secondCard: {
-      header: "Testing",
-      detail:
-        "At Chittgong hill tracts we believe all indigenous cultures can co-exist better. Together we can achieve more. Let's replace 'I' with 'We'.",
+      header: "𑄛𑄚",
+      detail: "𑄛𑄚 𑄇𑄨 𑄦𑄌𑄴 𑄘𑄪𑄭 𑄦𑄌𑄴 𑄋𑄩𑄢𑄨 𑄟𑄌𑄴 𑄦𑄌𑄴 𑄛𑄣𑄨 𑄨𑄘𑄨 𑄗𑄧𑄟𑄴.  𑄗𑄧𑄟𑄴 𑄙𑄝𑄚 𑄘𑄳𑄃𑄬𑄣𑄴 𑄙𑄉 ",
     },
     thirdCard: {
-      header: "Helpful for Research",
-      detail:
-        "Chittagong hill tracts aims at providing helpful resources for the researcher regarding indigenous community.",
+      header: "𑄬𑄦𑄖𑄴 𑄬𑄃𑄇𑄴",
+      detail: "𑄉 𑄘𑄳𑄃𑄬𑄣𑄴 𑄙𑄉 𑄘𑄳𑄃𑄬𑄣𑄴 𑄬𑄃𑄇𑄴 𑄢𑄧 𑄘𑄪𑄭. 𑄙𑄝𑄚 𑄙𑄝𑄚 𑄗𑄣𑄴 𑄛𑄚 𑄙𑄟 𑄢𑄖𑄴.",
     },
   },
 
   //About section
 
   about: {
-    header: "testing working",
+    header: "𑄦𑄉𑄧𑄖𑄴𑄧𑄣𑄨",
     detail:
-      "Chittagong hill tracts is a non-profit online archive and community. We are conserving and promoting cultures of world indigenous community. You can share and explore new ideas & thoughts representing diverse views of diverse people.zs",
+      "𑄃𑄬𑄣𑄴 𑄛𑄣𑄨 𑄨𑄘𑄨 𑄛𑄚 𑄟𑄌𑄴 𑄘𑄳𑄃𑄬𑄣𑄴. 𑄇𑄨 𑄬𑄦𑄖𑄴 𑄦𑄉𑄧𑄖𑄴𑄧𑄣𑄨 𑄃𑄋𑄢𑄳𑄦 𑄙𑄟 𑄢𑄖𑄴 𑄒𑄉𑄪𑄢𑄴 𑄢𑄧 𑄘𑄳𑄃𑄬𑄣𑄴.",
     list: {
-      first: "Discover hill tracts",
-      second: "Learn tribe languages",
-      third: "Explore posiblities",
-      forth: "Explore Something Exciting",
+      first: "𑄘𑄳𑄃𑄬𑄣𑄴 𑄦𑄌𑄴 𑄃𑄧𑄏",
+      second: "𑄗𑄣𑄴 𑄦𑄉𑄧𑄖𑄴𑄧𑄣𑄨 𑄗𑄧𑄟𑄴 ",
+      third: "𑄘𑄳𑄃𑄬𑄣𑄴 𑄘𑄳𑄃𑄬𑄣𑄴",
+      forth: "𑄦𑄌𑄴 𑄃𑄧𑄏𑄛𑄖𑄴",
     },
   },
 
